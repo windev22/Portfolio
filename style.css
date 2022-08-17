@@ -285,7 +285,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .project .carousel .card:hover{
-    background: blue;
+    background: indigo;
 }
 .project .carousel .card .box{
     display: flex;
